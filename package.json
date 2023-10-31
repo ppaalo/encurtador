@@ -1,0 +1,11 @@
+{
+  "name": "linked",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nanoid": "^5.0.2",
+    "shortid": "^2.2.16"
+  }
+}
